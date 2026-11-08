@@ -1,4 +1,4 @@
-const CACHE='mathbank-20261104e',IMAGES='mathbank-images-v1';
+const CACHE='mathbank-20261108a',IMAGES='mathbank-images-v1';
 const SHELL=['./','index.html','app.js','study.js','study.css','platform.css','theme.js','learning-core.js','learning-ui.js','offline.js','meta.js','question-index.js','qmap.js','fav_seed.js','data-tools.js','ch.html','fav.html','exam.html','review.html','manifest.json','official-rules.json','offline-manifest.json','vendor/supabase.js','vendor/mathjax/tex-svg-full.js','icons/icon-192.png'];
 self.addEventListener('install',e=>e.waitUntil(caches.open(CACHE).then(c=>c.addAll(SHELL))));
 // No skipWaiting: the old worker finishes existing exams with a consistent release.

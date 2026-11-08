@@ -1,4 +1,4 @@
-window.MB_VER = "20261104e";
+window.MB_VER = "20261108a";
 
 /* ---------- 全局错误显示（诊断用）：任何脚本错误都显示在页面顶部 ---------- */
 function showFatal(m) {

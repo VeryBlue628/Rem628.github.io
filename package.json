@@ -1,6 +1,6 @@
 {
   "name": "university-question-bank",
-  "version": "2.6.0",
+  "version": "2.7.0",
   "private": true,
   "description": "Buildless university question bank with local-first learning records",
   "scripts": {
@@ -8,5 +8,7 @@
     "test": "node tests/core.cjs",
     "check": "node scripts/check.cjs"
   },
-  "engines": { "node": ">=20" }
+  "engines": {
+    "node": ">=20"
+  }
 }
