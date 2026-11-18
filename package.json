@@ -1,11 +1,11 @@
 {
   "name": "university-question-bank",
-  "version": "2.7.0",
+  "version": "2.8.0",
   "private": true,
   "description": "Buildless university question bank with local-first learning records",
   "scripts": {
     "build": "node scripts/build-offline.cjs",
-    "test": "node tests/core.cjs",
+    "test": "node tests/core.cjs && node tests/c-bank.cjs",
     "check": "node scripts/check.cjs"
   },
   "engines": {
