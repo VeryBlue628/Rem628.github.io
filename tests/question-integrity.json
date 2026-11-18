@@ -3,10 +3,10 @@
   "normalization": "LF",
   "files": {
     "fav_seed.js": "ec00c6deed9202bd4f5cbd5025b16df882817a164977725fddb5e2aa940dc02c",
-    "meta.js": "cf7f01c302948f5fb299aeb3d1b11e0fa199850c823f3c430aea62d113409b9d",
-    "qmap.js": "4442d32bcfcd8847706bb9ccf35bd706f16b7809020230c3271f1d5c02137207",
-    "question-index.js": "ec40fc9fa04ae638e631237f2b6e291996eea98d956cfae5cebc33c9e2087b65",
-    "questions.js": "0a0b64f4f561bd5f109a45e2d0bbf55af97a5feee7e004d3f334fa0f143e4a12",
+    "meta.js": "b273a308c7876366591e85ff00a459004d2a4e1e1f34fe425897603ce052dbc3",
+    "qmap.js": "1c715f2d5016700235ab130badb3e790ed7e9c0f8e33e2105a0ecd346b4619a7",
+    "question-index.js": "e7cfd6750f009566ea2d89deb579209f76175b871b282e308345be5faf500928",
+    "questions.js": "32786969b69c2c5b6c11606acd7ad2a12759fbbc194d8b45639a33720ca8eebe",
     "q_CY_0.js": "26b3d099dfe107e6e759e1fd068ad4da36aeceb09dff64abaecade21309217e9",
     "q_CY_1.js": "76b878d600a5e7299ecc3d4ca8b5adf6997750432a2a4e81da5eb4bf866439a0",
     "q_CY_2.js": "dd9ff8e03727848fd65e7c996148bfa91ae88059c98beab4ff08b7563f595c9d",
@@ -55,7 +55,8 @@
     "q_XD_8.js": "7dfa8b2c1e19b953c897eb0aa78096578912f905bae1c4b509574b00300cff80",
     "q_XD_9.js": "8b59ff3d66fe88346eba1f7c75f58d50cdcc3ebb8882271830f0b4fc21abc1dd",
     "q_CY_3.js": "03b3f2b58f7630ac9b68f87ad5151f128ad22c0324ccea965238711a874cd4ec",
-    "q_CY_4.js": "2767e7dde562de1c50347b7f77342ec48c99816931efd0763c9b807f2695f096"
+    "q_CY_4.js": "2767e7dde562de1c50347b7f77342ec48c99816931efd0763c9b807f2695f096",
+    "q_GL_20.js": "e9cf71e2e775e84d713a50419f0b4d6db0bc9c9a9e12c1ecf3b9c878915513a7"
   },
   "appendOnlyImport": {
     "date": "2026-11-18",
@@ -63,5 +64,22 @@
     "legacyQuestions": 7397,
     "totalQuestions": 8117,
     "chapters": 49
-  }
+  },
+  "appendOnlyImports": [
+    {
+      "date": "2026-11-18",
+      "added": 720,
+      "legacyQuestions": 7397,
+      "totalQuestions": 8117,
+      "chapters": 49
+    },
+    {
+      "date": "2026-11-18",
+      "subject": "GL",
+      "added": 400,
+      "legacyQuestions": 8117,
+      "totalQuestions": 8517,
+      "chapters": 50
+    }
+  ]
 }
