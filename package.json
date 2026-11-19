@@ -1,6 +1,6 @@
 {
   "name": "university-question-bank",
-  "version": "2.9.0",
+  "version": "2.10.0",
   "private": true,
   "description": "Buildless university question bank with local-first learning records",
   "scripts": {
